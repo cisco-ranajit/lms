@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142701498963",
+    "project_id": "project-lms-73e11",
+    "storage_bucket": "project-lms-73e11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142701498963:android:9024fed151ea1444116ca6",
+        "android_client_info": {
+          "package_name": "com.lms.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142701498963-gjfbqbd80e3ppudhp1novo92lfrfvkqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe2Ukav0pOwegn6Zo9j6wvqsBA7KnL2nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142701498963-gjfbqbd80e3ppudhp1novo92lfrfvkqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
